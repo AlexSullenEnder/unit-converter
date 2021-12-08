@@ -1,0 +1,9 @@
+.unit-input__frame {
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid rgba(75, 75, 75, 0.2);
+}
+.unit-input__input {
+    box-sizing: border-box;
+    border: 1px solid rgba(75, 75, 75, 0.5);
+}

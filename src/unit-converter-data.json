@@ -1,0 +1,32 @@
+{
+	"categories": [
+		"Temperature",
+		"Mass",
+		"Length",
+		"Speed"
+	],
+	"pairs": {
+		"temperature": [
+			"Fahrenheit & Celsius",
+			"Kelvin & Fahrenheit",
+			"Celsius & Kelvin"
+		],
+		"mass": [
+			"Kilogram & Fount",
+			"Gram & Fount",
+			"Ounce & Fount",
+			"Ounce & Karat",
+			"Gram & Karat"
+		],
+		"length": [
+			"Meter & Mile",
+			"Kilometer & Mile",
+			"Meter & Foot",
+			"Kilometer & Foot"
+		],
+		"speed": [
+			"Meter per Second & Kilometer per Hour",
+			"Kilometer per Hour & Mile per Hour"
+		]
+	}
+}

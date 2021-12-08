@@ -1,0 +1,23 @@
+.dropdown-list { text-align: left; }
+
+.dropdown-list select {
+    border: none;
+    outline: none;
+    background: rgba(0, 0, 0, 0.05);
+    height: 5vh;
+    width: 25vw;
+    font-size: 16px;
+    box-shadow: none;
+    border-radius: 5px;
+}
+.dropdown-list select:focus {
+    outline: none;
+    border: 1px solid rgba(20, 20, 20, 0.1);
+    transition: 0.2s;
+}
+
+.dropdown-list select option {
+    border: 2px solid rgba(0, 0, 0, 0.01);
+    outline: none;
+    background: rgba(20, 20, 20, 0.1);
+}

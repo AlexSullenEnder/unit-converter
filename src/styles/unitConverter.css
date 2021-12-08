@@ -1,0 +1,14 @@
+.unit-converter__frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    box-sizing: border-box;
+    border-radius: 15px;
+    text-align: center;
+    border: 2px solid rgba(75, 75, 75, 0.2);
+    box-shadow: inset 10px 10px 100px 5px rgba(50, 50, 50, 0.1), 0 2px 5px rgba(50, 50, 50, 0.2);
+    width: 35vw;
+}
+.unit-converter__text {
+    font-size: 36px;
+}
